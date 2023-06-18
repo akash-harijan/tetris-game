@@ -1,3 +1,9 @@
+/*
+ * util.cpp
+ *
+ *  Created on: May 2, 2014
+ *      Author: Sibt ul Hussain
+ */
 
 #include "util.h"
 void DrawSquare(int sx, int sy, int size,float color[]) {

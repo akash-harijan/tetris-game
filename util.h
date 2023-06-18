@@ -2,7 +2,7 @@
  * util.h
  *
  *  Created on: May 2, 2014
- *      Author: Akash Harijan
+ *      Author: Sibt ul Hussain
  */
 
 #ifndef UTIL_H_
