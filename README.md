@@ -20,7 +20,7 @@ A C++ based implementation of classic tetris game.
 
 ## Installations
 
-To install the required libraries use the file install-libraries.sh using command line in ubuntu, simply run the terminal and go to the directory that contains the download code and run the command below:
+To install the required libraries use the file install-libraries.sh using command line in ubuntu, simply run the terminal and go to the directory that contains the downloaded code and run the command below:
 
 
 ```
