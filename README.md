@@ -8,6 +8,7 @@ A C++ based implementation of classic tetris game.
 - [Requirements](#requirements)
 - [Installations](#installations)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Acknowledgements](#acknowledgements)
 
 
@@ -47,6 +48,15 @@ Once all the requirements are installed successfully, run the following command 
 $ make
 $ ./game-release
 ```
+
+
+## Screenshots
+
+Here are some screenshots how this game is working...
+
+
+![Screenshot](./Screenshots/ss-1.png)
+![Screenshot](./Screenshots/ss-2.png)
 
 
 
